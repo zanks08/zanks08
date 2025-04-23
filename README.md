@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hey there, I'm Harshitha Sha!
 
-<!--
-**zanks08/zanks08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ I'm currently a Bachelor of Information Technology student majoring in **Artificial Intelligence** and **Cybersecurity**, based in the UAE.
 
-Here are some ideas to get you started:
+I’m passionate about exploring how intelligent systems and secure technologies work — and more importantly, how they can work **together**. I enjoy experimenting with different tools, frameworks, and hands-on labs to learn and grow in both fields.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This GitHub space is where I:
+- Try out new concepts
+- Break down complex ideas into practical examples
+- 🛠Practice turning theory into real-world application
+- Share ongoing experiments in cybersecurity, AI, and data-driven projects
+
+---
+
+## 🧪 My Recent Experiments
+
+### 🔐 [CVE-2023-44487 Demo](https://github.com/zanks08/cve-2023-44487-demo)  
+Simulated the HTTP/2 Rapid Reset vulnerability in Docker using Apache, with Webmin monitoring and iptables mitigation.
+
+### 🍫 [Chocolate Sales Dashboard](https://github.com/zanks08/chocolate-sales-dashboard)  
+An AI-focused dashboard built in Streamlit to analyze chocolate sales with real-time filtering and interactive charts.
+
+---
+
+
+## 🌐 Let’s Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/harshitha-sha-005b88361/)  
+
+
+---
+
