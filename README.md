@@ -7,7 +7,7 @@ I’m passionate about exploring how intelligent systems and secure technologies
 This GitHub space is where I:
 - Try out new concepts
 - Break down complex ideas into practical examples
-- 🛠Practice turning theory into real-world application
+- Practice turning theory into real-world application
 - Share ongoing experiments in cybersecurity, AI, and data-driven projects
 
 ---
