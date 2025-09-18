@@ -14,13 +14,16 @@ Learning by doing is my favorite way to grow — and if it breaks along the way,
 
 ---
 
-## 🧪 My Recent Experiments
+## 🧪 My Recent Experiments 
 
 ### 🔐 [CVE-2023-44487 Demo](https://github.com/zanks08/cve-2023-44487-demo)  
 Simulated the HTTP/2 Rapid Reset vulnerability in Docker using Apache, with Webmin monitoring and iptables mitigation.
 
 ### 🍫 [Chocolate Sales Dashboard](https://github.com/zanks08/chocolate-sales-dashboard)  
 An AI-focused dashboard built in Streamlit to analyze chocolate sales with real-time filtering and interactive charts.
+
+### 🚨 [AI-Powered Intrusion Detection System (IDS) - Web Application](https://github.com/your-username/ml-ids-app)  
+A basic IDS web app I built using Streamlit, the NSL-KDD dataset, and an XGBoost model — just a mini project to experiment with detecting normal vs. attack traffic and showing simple real-time visualizations.
 
 ### 🔓 [Oggy's Secret Snapshot (TryHackMe Room)](https://tryhackme.com/room/oggy-secret-snapshot)  
 A beginner-friendly steganography and forensics challenge built from scratch.  
